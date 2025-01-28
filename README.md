@@ -47,4 +47,5 @@ To run the service, compile and execute the binary file. The service will be acc
 1. Clone the repository:
 
    git clone https://github.com/FominDenisAn/ssl_certificate_checker.git
+   
    cd ssl_certificate_checker
