@@ -42,3 +42,9 @@ To run the service, compile and execute the binary file. The service will be acc
 - Retrieve list of services:
 
   curl http://localhost:8080/services
+
+### Installation Steps
+1. Clone the repository:
+
+   git clone https://github.com/FominDenisAn/ssl_certificate_checker.git
+   cd ssl_certificate_checker
