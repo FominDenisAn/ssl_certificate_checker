@@ -1,10 +1,5 @@
  SSL Certificate Checker
 
- Annotation for the Web Service in Go Language
-
- Service Name: SSL Certificate Checker
-
- Description:
 SSL Certificate Checker is a web service written in the Go programming language, designed for monitoring and managing information about security certificates (SSL/TLS) for various hosts and their associated services. The service provides a RESTful API to retrieve information about hosts and their certificates, as well as import and export data related to services.
 
  Key Features:
@@ -37,9 +32,6 @@ SSL Certificate Checker is a web service written in the Go programming language,
 - Go: The programming language used to write the service.
 - net/http: Library for creating an HTTP server and handling requests.
 - encoding/json: Library for encoding and decoding JSON data.
-- github.com/fatih/color: Library for colorful console text output.
-- github.com/shirou/gopsutil/v3: Library for retrieving system information, including CPU, memory, disk, and host details.
-- github.com/vbauerster/mpb/v7: Library for creating and displaying progress indicators in the console.
 
  Running and Using the Service:
 
